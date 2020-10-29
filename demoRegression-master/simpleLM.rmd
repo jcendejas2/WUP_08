@@ -45,5 +45,6 @@ abline(hlen)
 summary.lm(hlen)
 ```
  
- 
+# Conclusion:
 We were able to find a better fit to predict the length of a bear by using the variable HEADLEN and comparing the Adjusted-Rsquared value of 0.8434 which is bigger than the original Rsquared value which was 0.7476.  
+ 
